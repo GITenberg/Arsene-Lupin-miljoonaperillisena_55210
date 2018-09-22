@@ -5,6 +5,9 @@ contributor:
     agent_name: Kare, Aito
     gutenberg_agent_id: '48225'
     url: http://www.gutenberg.org/2009/agents/48225
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leblanc, Maurice
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1358
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Leblanc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55210#Arsene-Lupin-miljoonaperillisena
 gutenberg_issued: '2017-07-27'
 gutenberg_type: Text
 identifiers:
